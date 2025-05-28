@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Viraj Sanap
 
-<!--
-**virajsanap/virajsanap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a recent Master's graduate in Electrical and Computer Engineering from **NC State University**, with a 3.93 GPA and a specialization in **Machine Learning**, **Computer Vision**, and **Full-Stack Development**.
 
-Here are some ideas to get you started:
+👨‍💻 I previously worked as a **Senior Software Engineer at Infosys**, building scalable backend services and microservices for enterprise telecom platforms. I'm currently exploring **AI/ML**, **Generative AI**, and **cloud-native full-stack** projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Portfolio: [virajsanap.github.io](https://virajsanap.github.io)  
+🔗 LinkedIn: [linkedin.com/in/virajsanap14](https://linkedin.com/in/virajsanap14)
+
+📫 Reach out: [viraj.sanap@gmail.com](mailto:viraj.sanap@gmail.com)  
+💡 Actively seeking full-time opportunities in ML, AI, and Software Engineering!
+---
+
+## 💼 Experience Highlights
+
+- **Ag Analytics @ NC State**  
+  Migrated soybean yield forecast app to a React + Flask stack, integrated region-specific ML models, and deployed on AWS Lightsail (used by 100+ NC farmers).
+
+- **Active Sensing Robotics Lab @ NC State**  
+  Explored 3D plant reconstruction using NeRF, implemented Generative AI for anomaly detection in blueberries.
+
+- **Infosys Ltd.**  
+  Developed scalable Spring Boot microservices for T-Mobile, optimized multithreaded processing, deployed on AWS with CI/CD.
+
+---
+
+## 🔍 Projects
+
+### 🏆 [Object Detection & Synthetic Augmentation](https://github.com/virajsanap) — *1st Place @ NC PSI Hackathon*  
+Trained YOLOv8 on synthetic crop data (AWS SageMaker), improved mAP by 18%, deployed with CI/CD and S3 integration.
+
+### 🛡️ [Financial Fraud Detection (LLM + RAG)](https://github.com/virajsanap) — *2nd Place @ HackNCState*  
+Built a FastAPI+React app using Gemini LLM & vector search for detecting malicious content in user inputs.
+
+### 🩺 [Medical QA using TinyLLaMA](https://github.com/virajsanap/FineTuned_MedQUAD)  
+Fine-tuned TinyLLaMA (1.1B) on MedQuAD with LoRA, improving BLEU by 53% and BERTScore to 0.90.
+
+### 📊 [GitHub Miner](https://github.com/virajsanap)  
+Visualized GitHub repo insights using a React dashboard powered by Flask + GraphQL/REST APIs.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, C++, JavaScript, SQL, R  
+**Frameworks:** PyTorch, Flask, FastAPI, React, Spring Boot, Ruby on Rails  
+**Tools:** Docker, Kubernetes, Git, CI/CD, MLflow, Tableau, MongoDB  
+**Cloud:** AWS (S3, EC2, SageMaker, Lightsail), Azure  
+**Certifications:** AWS Cloud Practitioner | Microsoft Azure Fundamentals
+
+---
+
+
+

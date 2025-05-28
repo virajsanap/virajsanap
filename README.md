@@ -8,6 +8,7 @@
 🔗 LinkedIn: [linkedin.com/in/virajsanap14](https://linkedin.com/in/virajsanap14)
 
 📫 Reach out: [viraj.sanap@gmail.com](mailto:viraj.sanap@gmail.com)  
+
 💡 Actively seeking full-time opportunities in ML, AI, and Software Engineering!
 ---
 
@@ -26,17 +27,17 @@
 
 ## 🔍 Projects
 
-### 🏆 [Object Detection & Synthetic Augmentation](https://github.com/virajsanap) — *1st Place @ NC PSI Hackathon*  
+### 🏆 [Object Detection & Synthetic Augmentation] — *1st Place @ NC PSI Hackathon*  
 Trained YOLOv8 on synthetic crop data (AWS SageMaker), improved mAP by 18%, deployed with CI/CD and S3 integration.
 
-### 🛡️ [Financial Fraud Detection (LLM + RAG)](https://github.com/virajsanap) — *2nd Place @ HackNCState*  
+### 🛡️ [Financial Fraud Detection (LLM + RAG)] — *2nd Place @ HackNCState*  
 Built a FastAPI+React app using Gemini LLM & vector search for detecting malicious content in user inputs.
 
-### 🩺 [Medical QA using TinyLLaMA](https://github.com/virajsanap/FineTuned_MedQUAD)  
+### 🩺 [Medical QA using TinyLLaMA]  
 Fine-tuned TinyLLaMA (1.1B) on MedQuAD with LoRA, improving BLEU by 53% and BERTScore to 0.90.
 
-### 📊 [GitHub Miner](https://github.com/virajsanap)  
-Visualized GitHub repo insights using a React dashboard powered by Flask + GraphQL/REST APIs.
+### 🌱 BeanPACK: Soybean Yield Prediction Platform  
+Migrated a research prototype to a full-stack web app using Flask + React, hosting it on AWS Lightsail. Integrated region-specific ML models to recommend optimal planting dates and boost yields for 100+ NC farmers.   
 
 ---
 
